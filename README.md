@@ -2,9 +2,11 @@
 
 ## 🎯 Objective
 
-This repository documents my journey to become a Healthcare & Laboratory Data Analytics professional using Python, SQL and Power BI.
+This repository tracks my professional roadmap towards becoming a Healthcare & Laboratory Data Analytics specialist.
 
-The focus is not on collecting certificates, but on building practical tools and real-world projects.
+The focus is on developing practical skills through real-world projects rather than collecting certifications.
+
+Each completed learning module results in a practical project that demonstrates the acquired knowledge.
 
 ---
 
@@ -21,13 +23,13 @@ The focus is not on collecting certificates, but on building practical tools and
 
 ---
 
-## Phase 2 — Data Analysis with Python 🔄
+## Phase 2 — IBM Data Analysis with Python
 
-- [ ] Module 1
-- [ ] Module 2
-- [ ] Module 3
-- [ ] Module 4
-- [ ] Module 5
+- [ ] Importing Datasets
+- [ ] Data Wrangling
+- [ ] Exploratory Data Analysis
+- [ ] Model Development
+- [ ] Model Evaluation
 - [ ] Final Project
 
 ---
@@ -77,9 +79,13 @@ The focus is not on collecting certificates, but on building practical tools and
 
 # 📈 Progress
 
-Current Focus:
+## 🚀 Current Mission
 
-➡ IBM - Data Analysis with Python
+IBM Data Analysis with Python
+
+Current Goal:
+
+Build a Laboratory Results Analyzer capable of importing, cleaning and analysing laboratory datasets using Python.
 
 Next Project:
 
