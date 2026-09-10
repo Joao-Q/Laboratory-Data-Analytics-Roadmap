@@ -1,50 +1,81 @@
 # Project Template
 
-## Objective
+## 🎯 Objective
 
-What problem does this project solve?
+**Problem:**  
+What problem does this project aim to solve?
 
----
-
-## Dataset
-
-- Source:
-- Description:
-- Number of records:
-- Number of variables:
+**Goal:**  
+What should the final analysis, tool, or dashboard accomplish?
 
 ---
 
-## Technologies
+## 📊 Dataset
+
+**Source:**  
+[Dataset source or "Synthetic data"]
+
+**Description:**  
+Briefly describe what the dataset represents.
+
+**Dataset size:**
+- Records:
+- Variables:
+
+**Key variables:**
+- Variable 1:
+- Variable 2:
+- Variable 3:
+
+> Add any relevant limitations, assumptions, privacy considerations, or synthetic-data disclaimers.
+
+---
+
+## ❓ Analytical Questions
+
+Define the main questions the project should answer.
+
+1. Question 1
+2. Question 2
+3. Question 3
+
+---
+
+## 🛠️ Technologies
+
+List only the technologies actually used in the project.
+
+Examples:
 
 - Python
 - Pandas
 - NumPy
 - Matplotlib
+- Seaborn
+- SQL / PostgreSQL
 - Power BI
-- SQL (if applicable)
+- Excel
+- Git / GitHub
 
 ---
 
-## Workflow
+## 🔄 Workflow
 
-1. Import data
-2. Clean data
-3. Explore data
-4. Analyse
-5. Visualise
-6. Conclusions
+Describe the actual workflow of the project.
 
----
+Example:
 
-## Results
-
-Describe the main findings.
-
----
-
-## Future Improvements
-
-- Feature 1
-- Feature 2
-- Feature 3
+```text
+Data Source
+    ↓
+Import
+    ↓
+Validation / Cleaning
+    ↓
+Analysis
+    ↓
+KPIs
+    ↓
+Visualization
+    ↓
+Final Output
